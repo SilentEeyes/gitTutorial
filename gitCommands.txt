@@ -1,3 +1,8 @@
+***LINUX Command*******
+1. pwd : present working directory
+2. ls : content list of current directory
+3. cd folderName/: change directory 
+
 -> git status 
 	-> if(not initialize) {
 		git init
@@ -9,3 +14,13 @@
 
 -> If you want to check how many and which commits we have done.
 	-> git log
+	
+	
+-> if you want to  delete git repository
+	-> rm -rf .git
+	
+-> clone of other directory
+	-> git clone "git url" name ifyou want to give
+	
+
+	
