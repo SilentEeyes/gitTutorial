@@ -2,7 +2,7 @@
 1. pwd : present working directory
 2. ls : content list of current directory
 3. cd folderName/: change directory 
-
+4. touch fileName : generate a file with fileName
 -> git status 
 	-> if(not initialize) {
 		git init
