@@ -1,0 +1,11 @@
+-> git status 
+	-> if(not initialize) {
+		git init
+	}
+-> git add --a (staging state)
+-> check by git status if you want
+-> git commit -m "your message"
+
+
+-> If you want to check how many and which commits we have done.
+	-> git log
